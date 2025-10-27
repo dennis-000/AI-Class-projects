@@ -1,6 +1,8 @@
 # Linear Regression BMI Prediction
 
-This folder contains the Colab notebook **bmi_linear_regression.ipynb**, 
-which demonstrates linear regression for BMI prediction using scikit-learn.
+Linear Regression model predicting BMI using scikit-learn.
 
-_Last updated: 2025-10-27 01:05:58_  
+**Included Notebooks:**
+- bmi_linear_regression.ipynb
+
+_Last updated: 2025-10-27 01:08:50_  
